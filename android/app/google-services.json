@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "310230187294",
+    "project_id": "mobileseller-app",
+    "storage_bucket": "mobileseller-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310230187294:android:6e5cc813209a5d4cdc9d0f",
+        "android_client_info": {
+          "package_name": "com.yumna.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310230187294-m6ql00j5sjr6tga2pbd191r2lcu89ikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1m3QUWzPyF6hvRmUUuFmPw8ah_M2PVcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310230187294-m6ql00j5sjr6tga2pbd191r2lcu89ikn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310230187294:android:2f8303582b882f1ddc9d0f",
+        "android_client_info": {
+          "package_name": "com.yumnaiqbal.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310230187294-m6ql00j5sjr6tga2pbd191r2lcu89ikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1m3QUWzPyF6hvRmUUuFmPw8ah_M2PVcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310230187294-m6ql00j5sjr6tga2pbd191r2lcu89ikn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
